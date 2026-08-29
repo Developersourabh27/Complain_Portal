@@ -1,0 +1,101 @@
+ID,title,description,status,priority,date,raisedby_ID,assignedto_ID,resolved_at,closed_at
+C001,VPN access is unavailable - 1,The employee cannot connect to the corporate VPN from the office network.,Open,High,2026-01-01,E014,E028,,
+C002,Payroll deduction needs correction - 2,The monthly payslip shows an incorrect deduction and needs review.,In Progress,Medium,2026-01-02,E015,E029,,
+C003,Laptop battery is failing - 3,The assigned laptop battery drains within one hour of normal use.,Resolved,Low,2026-01-03,E016,E030,2026-01-05T11:30:00Z,
+C004,Customer portal shows an error - 4,Customers receive an error after submitting the service request form.,Closed,High,2026-01-04,E017,E031,2026-01-06T12:30:00Z,2026-01-08T12:30:00Z
+C005,Office air conditioning issue - 5,The meeting room temperature is unusually high during working hours.,Open,Medium,2026-01-05,E018,E032,,
+C006,Purchase order approval is delayed - 6,A pending purchase order has not moved to the next approval stage.,In Progress,Low,2026-01-06,E019,E033,,
+C007,Email delivery is delayed - 7,Outbound messages to external recipients are arriving several hours late.,Resolved,High,2026-01-07,E020,E034,2026-01-09T15:30:00Z,
+C008,Access badge is not working - 8,The building access card is rejected at the main entrance.,Closed,Medium,2026-01-08,E021,E035,2026-01-10T16:30:00Z,2026-01-12T16:30:00Z
+C009,Invoice details do not match - 9,The supplier invoice total differs from the approved purchase order.,Open,Low,2026-01-09,E022,E036,,
+C010,Shared drive permission required - 10,The project team needs read and write access to the shared folder.,In Progress,High,2026-01-10,E023,E037,,
+C011,VPN access is unavailable - 11,The employee cannot connect to the corporate VPN from the office network.,Resolved,Medium,2026-01-11,E024,E038,2026-01-13T11:30:00Z,
+C012,Payroll deduction needs correction - 12,The monthly payslip shows an incorrect deduction and needs review.,Closed,Low,2026-01-12,E025,E039,2026-01-14T12:30:00Z,2026-01-16T12:30:00Z
+C013,Laptop battery is failing - 13,The assigned laptop battery drains within one hour of normal use.,Open,High,2026-01-13,E026,E040,,
+C014,Customer portal shows an error - 14,Customers receive an error after submitting the service request form.,In Progress,Medium,2026-01-14,E027,E041,,
+C015,Office air conditioning issue - 15,The meeting room temperature is unusually high during working hours.,Resolved,Low,2026-01-15,E028,E042,2026-01-17T15:30:00Z,
+C016,Purchase order approval is delayed - 16,A pending purchase order has not moved to the next approval stage.,Closed,High,2026-01-16,E029,E043,2026-01-18T16:30:00Z,2026-01-20T16:30:00Z
+C017,Email delivery is delayed - 17,Outbound messages to external recipients are arriving several hours late.,Open,Medium,2026-01-17,E030,E044,,
+C018,Access badge is not working - 18,The building access card is rejected at the main entrance.,In Progress,Low,2026-01-18,E031,E045,,
+C019,Invoice details do not match - 19,The supplier invoice total differs from the approved purchase order.,Resolved,High,2026-01-19,E032,E046,2026-01-21T11:30:00Z,
+C020,Shared drive permission required - 20,The project team needs read and write access to the shared folder.,Closed,Medium,2026-01-20,E033,E047,2026-01-22T12:30:00Z,2026-01-24T12:30:00Z
+C021,VPN access is unavailable - 21,The employee cannot connect to the corporate VPN from the office network.,Open,Low,2026-01-21,E034,E048,,
+C022,Payroll deduction needs correction - 22,The monthly payslip shows an incorrect deduction and needs review.,In Progress,High,2026-01-22,E035,E049,,
+C023,Laptop battery is failing - 23,The assigned laptop battery drains within one hour of normal use.,Resolved,Medium,2026-01-23,E036,E050,2026-01-25T15:30:00Z,
+C024,Customer portal shows an error - 24,Customers receive an error after submitting the service request form.,Closed,Low,2026-01-24,E037,E051,2026-01-26T16:30:00Z,2026-01-28T16:30:00Z
+C025,Office air conditioning issue - 25,The meeting room temperature is unusually high during working hours.,Open,High,2026-01-25,E038,E052,,
+C026,Purchase order approval is delayed - 26,A pending purchase order has not moved to the next approval stage.,In Progress,Medium,2026-01-26,E039,E053,,
+C027,Email delivery is delayed - 27,Outbound messages to external recipients are arriving several hours late.,Resolved,Low,2026-01-27,E040,E054,2026-02-01T11:30:00Z,
+C028,Access badge is not working - 28,The building access card is rejected at the main entrance.,Closed,High,2026-01-28,E041,E055,2026-02-02T12:30:00Z,2026-02-04T12:30:00Z
+C029,Invoice details do not match - 29,The supplier invoice total differs from the approved purchase order.,Open,Medium,2026-02-01,E042,E056,,
+C030,Shared drive permission required - 30,The project team needs read and write access to the shared folder.,In Progress,Low,2026-02-02,E043,E057,,
+C031,VPN access is unavailable - 31,The employee cannot connect to the corporate VPN from the office network.,Resolved,High,2026-02-03,E044,E058,2026-02-05T15:30:00Z,
+C032,Payroll deduction needs correction - 32,The monthly payslip shows an incorrect deduction and needs review.,Closed,Medium,2026-02-04,E045,E059,2026-02-06T16:30:00Z,2026-02-08T16:30:00Z
+C033,Laptop battery is failing - 33,The assigned laptop battery drains within one hour of normal use.,Open,Low,2026-02-05,E046,E060,,
+C034,Customer portal shows an error - 34,Customers receive an error after submitting the service request form.,In Progress,High,2026-02-06,E047,E061,,
+C035,Office air conditioning issue - 35,The meeting room temperature is unusually high during working hours.,Resolved,Medium,2026-02-07,E048,E062,2026-02-09T11:30:00Z,
+C036,Purchase order approval is delayed - 36,A pending purchase order has not moved to the next approval stage.,Closed,Low,2026-02-08,E049,E063,2026-02-10T12:30:00Z,2026-02-12T12:30:00Z
+C037,Email delivery is delayed - 37,Outbound messages to external recipients are arriving several hours late.,Open,High,2026-02-09,E050,E064,,
+C038,Access badge is not working - 38,The building access card is rejected at the main entrance.,In Progress,Medium,2026-02-10,E051,E065,,
+C039,Invoice details do not match - 39,The supplier invoice total differs from the approved purchase order.,Resolved,Low,2026-02-11,E052,E066,2026-02-13T15:30:00Z,
+C040,Shared drive permission required - 40,The project team needs read and write access to the shared folder.,Closed,High,2026-02-12,E053,E067,2026-02-14T16:30:00Z,2026-02-16T16:30:00Z
+C041,VPN access is unavailable - 41,The employee cannot connect to the corporate VPN from the office network.,Open,Medium,2026-02-13,E054,E068,,
+C042,Payroll deduction needs correction - 42,The monthly payslip shows an incorrect deduction and needs review.,In Progress,Low,2026-02-14,E055,E069,,
+C043,Laptop battery is failing - 43,The assigned laptop battery drains within one hour of normal use.,Resolved,High,2026-02-15,E056,E070,2026-02-17T11:30:00Z,
+C044,Customer portal shows an error - 44,Customers receive an error after submitting the service request form.,Closed,Medium,2026-02-16,E057,E071,2026-02-18T12:30:00Z,2026-02-20T12:30:00Z
+C045,Office air conditioning issue - 45,The meeting room temperature is unusually high during working hours.,Open,Low,2026-02-17,E058,E072,,
+C046,Purchase order approval is delayed - 46,A pending purchase order has not moved to the next approval stage.,In Progress,High,2026-02-18,E059,E073,,
+C047,Email delivery is delayed - 47,Outbound messages to external recipients are arriving several hours late.,Resolved,Medium,2026-02-19,E060,E074,2026-02-21T15:30:00Z,
+C048,Access badge is not working - 48,The building access card is rejected at the main entrance.,Closed,Low,2026-02-20,E061,E075,2026-02-22T16:30:00Z,2026-02-24T16:30:00Z
+C049,Invoice details do not match - 49,The supplier invoice total differs from the approved purchase order.,Open,High,2026-02-21,E062,E076,,
+C050,Shared drive permission required - 50,The project team needs read and write access to the shared folder.,In Progress,Medium,2026-02-22,E063,E077,,
+C051,VPN access is unavailable - 51,The employee cannot connect to the corporate VPN from the office network.,Resolved,Low,2026-02-23,E064,E078,2026-02-25T11:30:00Z,
+C052,Payroll deduction needs correction - 52,The monthly payslip shows an incorrect deduction and needs review.,Closed,High,2026-02-24,E065,E079,2026-02-26T12:30:00Z,2026-02-28T12:30:00Z
+C053,Laptop battery is failing - 53,The assigned laptop battery drains within one hour of normal use.,Open,Medium,2026-02-25,E066,E080,,
+C054,Customer portal shows an error - 54,Customers receive an error after submitting the service request form.,In Progress,Low,2026-02-26,E067,E081,,
+C055,Office air conditioning issue - 55,The meeting room temperature is unusually high during working hours.,Resolved,High,2026-02-27,E068,E082,2026-03-01T15:30:00Z,
+C056,Purchase order approval is delayed - 56,A pending purchase order has not moved to the next approval stage.,Closed,Medium,2026-02-28,E069,E083,2026-03-02T16:30:00Z,2026-03-04T16:30:00Z
+C057,Email delivery is delayed - 57,Outbound messages to external recipients are arriving several hours late.,Open,Low,2026-03-01,E070,E084,,
+C058,Access badge is not working - 58,The building access card is rejected at the main entrance.,In Progress,High,2026-03-02,E071,E085,,
+C059,Invoice details do not match - 59,The supplier invoice total differs from the approved purchase order.,Resolved,Medium,2026-03-03,E072,E086,2026-03-05T11:30:00Z,
+C060,Shared drive permission required - 60,The project team needs read and write access to the shared folder.,Closed,Low,2026-03-04,E073,E087,2026-03-06T12:30:00Z,2026-03-08T12:30:00Z
+C061,VPN access is unavailable - 61,The employee cannot connect to the corporate VPN from the office network.,Open,High,2026-03-05,E074,E088,,
+C062,Payroll deduction needs correction - 62,The monthly payslip shows an incorrect deduction and needs review.,In Progress,Medium,2026-03-06,E075,E089,,
+C063,Laptop battery is failing - 63,The assigned laptop battery drains within one hour of normal use.,Resolved,Low,2026-03-07,E076,E090,2026-03-09T15:30:00Z,
+C064,Customer portal shows an error - 64,Customers receive an error after submitting the service request form.,Closed,High,2026-03-08,E077,E091,2026-03-10T16:30:00Z,2026-03-12T16:30:00Z
+C065,Office air conditioning issue - 65,The meeting room temperature is unusually high during working hours.,Open,Medium,2026-03-09,E078,E092,,
+C066,Purchase order approval is delayed - 66,A pending purchase order has not moved to the next approval stage.,In Progress,Low,2026-03-10,E079,E093,,
+C067,Email delivery is delayed - 67,Outbound messages to external recipients are arriving several hours late.,Resolved,High,2026-03-11,E080,E094,2026-03-13T11:30:00Z,
+C068,Access badge is not working - 68,The building access card is rejected at the main entrance.,Closed,Medium,2026-03-12,E081,E095,2026-03-14T12:30:00Z,2026-03-16T12:30:00Z
+C069,Invoice details do not match - 69,The supplier invoice total differs from the approved purchase order.,Open,Low,2026-03-13,E082,E096,,
+C070,Shared drive permission required - 70,The project team needs read and write access to the shared folder.,In Progress,High,2026-03-14,E083,E097,,
+C071,VPN access is unavailable - 71,The employee cannot connect to the corporate VPN from the office network.,Resolved,Medium,2026-03-15,E084,E098,2026-03-17T15:30:00Z,
+C072,Payroll deduction needs correction - 72,The monthly payslip shows an incorrect deduction and needs review.,Closed,Low,2026-03-16,E085,E099,2026-03-18T16:30:00Z,2026-03-20T16:30:00Z
+C073,Laptop battery is failing - 73,The assigned laptop battery drains within one hour of normal use.,Open,High,2026-03-17,E086,E100,,
+C074,Customer portal shows an error - 74,Customers receive an error after submitting the service request form.,In Progress,Medium,2026-03-18,E087,E001,,
+C075,Office air conditioning issue - 75,The meeting room temperature is unusually high during working hours.,Resolved,Low,2026-03-19,E088,E002,2026-03-21T11:30:00Z,
+C076,Purchase order approval is delayed - 76,A pending purchase order has not moved to the next approval stage.,Closed,High,2026-03-20,E089,E003,2026-03-22T12:30:00Z,2026-03-24T12:30:00Z
+C077,Email delivery is delayed - 77,Outbound messages to external recipients are arriving several hours late.,Open,Medium,2026-03-21,E090,E004,,
+C078,Access badge is not working - 78,The building access card is rejected at the main entrance.,In Progress,Low,2026-03-22,E091,E005,,
+C079,Invoice details do not match - 79,The supplier invoice total differs from the approved purchase order.,Resolved,High,2026-03-23,E092,E006,2026-03-25T15:30:00Z,
+C080,Shared drive permission required - 80,The project team needs read and write access to the shared folder.,Closed,Medium,2026-03-24,E093,E007,2026-03-26T16:30:00Z,2026-03-28T16:30:00Z
+C081,VPN access is unavailable - 81,The employee cannot connect to the corporate VPN from the office network.,Open,Low,2026-03-25,E094,E008,,
+C082,Payroll deduction needs correction - 82,The monthly payslip shows an incorrect deduction and needs review.,In Progress,High,2026-03-26,E095,E009,,
+C083,Laptop battery is failing - 83,The assigned laptop battery drains within one hour of normal use.,Resolved,Medium,2026-03-27,E096,E010,2026-04-01T11:30:00Z,
+C084,Customer portal shows an error - 84,Customers receive an error after submitting the service request form.,Closed,Low,2026-03-28,E097,E011,2026-04-02T12:30:00Z,2026-04-04T12:30:00Z
+C085,Office air conditioning issue - 85,The meeting room temperature is unusually high during working hours.,Open,High,2026-04-01,E098,E012,,
+C086,Purchase order approval is delayed - 86,A pending purchase order has not moved to the next approval stage.,In Progress,Medium,2026-04-02,E099,E013,,
+C087,Email delivery is delayed - 87,Outbound messages to external recipients are arriving several hours late.,Resolved,Low,2026-04-03,E100,E014,2026-04-05T15:30:00Z,
+C088,Access badge is not working - 88,The building access card is rejected at the main entrance.,Closed,High,2026-04-04,E001,E015,2026-04-06T16:30:00Z,2026-04-08T16:30:00Z
+C089,Invoice details do not match - 89,The supplier invoice total differs from the approved purchase order.,Open,Medium,2026-04-05,E002,E016,,
+C090,Shared drive permission required - 90,The project team needs read and write access to the shared folder.,In Progress,Low,2026-04-06,E003,E017,,
+C091,VPN access is unavailable - 91,The employee cannot connect to the corporate VPN from the office network.,Resolved,High,2026-04-07,E004,E018,2026-04-09T11:30:00Z,
+C092,Payroll deduction needs correction - 92,The monthly payslip shows an incorrect deduction and needs review.,Closed,Medium,2026-04-08,E005,E019,2026-04-10T12:30:00Z,2026-04-12T12:30:00Z
+C093,Laptop battery is failing - 93,The assigned laptop battery drains within one hour of normal use.,Open,Low,2026-04-09,E006,E020,,
+C094,Customer portal shows an error - 94,Customers receive an error after submitting the service request form.,In Progress,High,2026-04-10,E007,E021,,
+C095,Office air conditioning issue - 95,The meeting room temperature is unusually high during working hours.,Resolved,Medium,2026-04-11,E008,E022,2026-04-13T15:30:00Z,
+C096,Purchase order approval is delayed - 96,A pending purchase order has not moved to the next approval stage.,Closed,Low,2026-04-12,E009,E023,2026-04-14T16:30:00Z,2026-04-16T16:30:00Z
+C097,Email delivery is delayed - 97,Outbound messages to external recipients are arriving several hours late.,Open,High,2026-04-13,E010,E024,,
+C098,Access badge is not working - 98,The building access card is rejected at the main entrance.,In Progress,Medium,2026-04-14,E011,E025,,
+C099,Invoice details do not match - 99,The supplier invoice total differs from the approved purchase order.,Resolved,Low,2026-04-15,E012,E026,2026-04-17T11:30:00Z,
+C100,Shared drive permission required - 100,The project team needs read and write access to the shared folder.,Closed,High,2026-04-16,E013,E027,2026-04-18T12:30:00Z,2026-04-20T12:30:00Z

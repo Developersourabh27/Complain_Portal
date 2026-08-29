@@ -1,0 +1,101 @@
+ID,comment,date,complaint_ID,commentedby_ID
+CC001,The issue has been assigned to the responsible team.,2026-01-02T09:30:00Z,C001,E028
+CC002,Additional information was requested from the requester.,2026-01-03T10:30:00Z,C002,E029
+CC003,The support team is investigating the reported behavior.,2026-01-04T11:30:00Z,C003,E030
+CC004,A temporary workaround has been shared with the employee.,2026-01-05T12:30:00Z,C004,E031
+CC005,The requester confirmed that the issue is resolved.,2026-01-06T13:30:00Z,C005,E032
+CC006,The issue has been assigned to the responsible team.,2026-01-07T14:30:00Z,C006,E033
+CC007,Additional information was requested from the requester.,2026-01-08T15:30:00Z,C007,E034
+CC008,The support team is investigating the reported behavior.,2026-01-09T16:30:00Z,C008,E035
+CC009,A temporary workaround has been shared with the employee.,2026-01-10T09:30:00Z,C009,E036
+CC010,The requester confirmed that the issue is resolved.,2026-01-11T10:30:00Z,C010,E037
+CC011,The issue has been assigned to the responsible team.,2026-01-12T11:30:00Z,C011,E038
+CC012,Additional information was requested from the requester.,2026-01-13T12:30:00Z,C012,E039
+CC013,The support team is investigating the reported behavior.,2026-01-14T13:30:00Z,C013,E040
+CC014,A temporary workaround has been shared with the employee.,2026-01-15T14:30:00Z,C014,E041
+CC015,The requester confirmed that the issue is resolved.,2026-01-16T15:30:00Z,C015,E042
+CC016,The issue has been assigned to the responsible team.,2026-01-17T16:30:00Z,C016,E043
+CC017,Additional information was requested from the requester.,2026-01-18T09:30:00Z,C017,E044
+CC018,The support team is investigating the reported behavior.,2026-01-19T10:30:00Z,C018,E045
+CC019,A temporary workaround has been shared with the employee.,2026-01-20T11:30:00Z,C019,E046
+CC020,The requester confirmed that the issue is resolved.,2026-01-21T12:30:00Z,C020,E047
+CC021,The issue has been assigned to the responsible team.,2026-01-22T13:30:00Z,C021,E048
+CC022,Additional information was requested from the requester.,2026-01-23T14:30:00Z,C022,E049
+CC023,The support team is investigating the reported behavior.,2026-01-24T15:30:00Z,C023,E050
+CC024,A temporary workaround has been shared with the employee.,2026-01-25T16:30:00Z,C024,E051
+CC025,The requester confirmed that the issue is resolved.,2026-01-26T09:30:00Z,C025,E052
+CC026,The issue has been assigned to the responsible team.,2026-01-27T10:30:00Z,C026,E053
+CC027,Additional information was requested from the requester.,2026-01-28T11:30:00Z,C027,E054
+CC028,The support team is investigating the reported behavior.,2026-02-01T12:30:00Z,C028,E055
+CC029,A temporary workaround has been shared with the employee.,2026-02-02T13:30:00Z,C029,E056
+CC030,The requester confirmed that the issue is resolved.,2026-02-03T14:30:00Z,C030,E057
+CC031,The issue has been assigned to the responsible team.,2026-02-04T15:30:00Z,C031,E058
+CC032,Additional information was requested from the requester.,2026-02-05T16:30:00Z,C032,E059
+CC033,The support team is investigating the reported behavior.,2026-02-06T09:30:00Z,C033,E060
+CC034,A temporary workaround has been shared with the employee.,2026-02-07T10:30:00Z,C034,E061
+CC035,The requester confirmed that the issue is resolved.,2026-02-08T11:30:00Z,C035,E062
+CC036,The issue has been assigned to the responsible team.,2026-02-09T12:30:00Z,C036,E063
+CC037,Additional information was requested from the requester.,2026-02-10T13:30:00Z,C037,E064
+CC038,The support team is investigating the reported behavior.,2026-02-11T14:30:00Z,C038,E065
+CC039,A temporary workaround has been shared with the employee.,2026-02-12T15:30:00Z,C039,E066
+CC040,The requester confirmed that the issue is resolved.,2026-02-13T16:30:00Z,C040,E067
+CC041,The issue has been assigned to the responsible team.,2026-02-14T09:30:00Z,C041,E068
+CC042,Additional information was requested from the requester.,2026-02-15T10:30:00Z,C042,E069
+CC043,The support team is investigating the reported behavior.,2026-02-16T11:30:00Z,C043,E070
+CC044,A temporary workaround has been shared with the employee.,2026-02-17T12:30:00Z,C044,E071
+CC045,The requester confirmed that the issue is resolved.,2026-02-18T13:30:00Z,C045,E072
+CC046,The issue has been assigned to the responsible team.,2026-02-19T14:30:00Z,C046,E073
+CC047,Additional information was requested from the requester.,2026-02-20T15:30:00Z,C047,E074
+CC048,The support team is investigating the reported behavior.,2026-02-21T16:30:00Z,C048,E075
+CC049,A temporary workaround has been shared with the employee.,2026-02-22T09:30:00Z,C049,E076
+CC050,The requester confirmed that the issue is resolved.,2026-02-23T10:30:00Z,C050,E077
+CC051,The issue has been assigned to the responsible team.,2026-02-24T11:30:00Z,C051,E078
+CC052,Additional information was requested from the requester.,2026-02-25T12:30:00Z,C052,E079
+CC053,The support team is investigating the reported behavior.,2026-02-26T13:30:00Z,C053,E080
+CC054,A temporary workaround has been shared with the employee.,2026-02-27T14:30:00Z,C054,E081
+CC055,The requester confirmed that the issue is resolved.,2026-02-28T15:30:00Z,C055,E082
+CC056,The issue has been assigned to the responsible team.,2026-03-01T16:30:00Z,C056,E083
+CC057,Additional information was requested from the requester.,2026-03-02T09:30:00Z,C057,E084
+CC058,The support team is investigating the reported behavior.,2026-03-03T10:30:00Z,C058,E085
+CC059,A temporary workaround has been shared with the employee.,2026-03-04T11:30:00Z,C059,E086
+CC060,The requester confirmed that the issue is resolved.,2026-03-05T12:30:00Z,C060,E087
+CC061,The issue has been assigned to the responsible team.,2026-03-06T13:30:00Z,C061,E088
+CC062,Additional information was requested from the requester.,2026-03-07T14:30:00Z,C062,E089
+CC063,The support team is investigating the reported behavior.,2026-03-08T15:30:00Z,C063,E090
+CC064,A temporary workaround has been shared with the employee.,2026-03-09T16:30:00Z,C064,E091
+CC065,The requester confirmed that the issue is resolved.,2026-03-10T09:30:00Z,C065,E092
+CC066,The issue has been assigned to the responsible team.,2026-03-11T10:30:00Z,C066,E093
+CC067,Additional information was requested from the requester.,2026-03-12T11:30:00Z,C067,E094
+CC068,The support team is investigating the reported behavior.,2026-03-13T12:30:00Z,C068,E095
+CC069,A temporary workaround has been shared with the employee.,2026-03-14T13:30:00Z,C069,E096
+CC070,The requester confirmed that the issue is resolved.,2026-03-15T14:30:00Z,C070,E097
+CC071,The issue has been assigned to the responsible team.,2026-03-16T15:30:00Z,C071,E098
+CC072,Additional information was requested from the requester.,2026-03-17T16:30:00Z,C072,E099
+CC073,The support team is investigating the reported behavior.,2026-03-18T09:30:00Z,C073,E100
+CC074,A temporary workaround has been shared with the employee.,2026-03-19T10:30:00Z,C074,E001
+CC075,The requester confirmed that the issue is resolved.,2026-03-20T11:30:00Z,C075,E002
+CC076,The issue has been assigned to the responsible team.,2026-03-21T12:30:00Z,C076,E003
+CC077,Additional information was requested from the requester.,2026-03-22T13:30:00Z,C077,E004
+CC078,The support team is investigating the reported behavior.,2026-03-23T14:30:00Z,C078,E005
+CC079,A temporary workaround has been shared with the employee.,2026-03-24T15:30:00Z,C079,E006
+CC080,The requester confirmed that the issue is resolved.,2026-03-25T16:30:00Z,C080,E007
+CC081,The issue has been assigned to the responsible team.,2026-03-26T09:30:00Z,C081,E008
+CC082,Additional information was requested from the requester.,2026-03-27T10:30:00Z,C082,E009
+CC083,The support team is investigating the reported behavior.,2026-03-28T11:30:00Z,C083,E010
+CC084,A temporary workaround has been shared with the employee.,2026-04-01T12:30:00Z,C084,E011
+CC085,The requester confirmed that the issue is resolved.,2026-04-02T13:30:00Z,C085,E012
+CC086,The issue has been assigned to the responsible team.,2026-04-03T14:30:00Z,C086,E013
+CC087,Additional information was requested from the requester.,2026-04-04T15:30:00Z,C087,E014
+CC088,The support team is investigating the reported behavior.,2026-04-05T16:30:00Z,C088,E015
+CC089,A temporary workaround has been shared with the employee.,2026-04-06T09:30:00Z,C089,E016
+CC090,The requester confirmed that the issue is resolved.,2026-04-07T10:30:00Z,C090,E017
+CC091,The issue has been assigned to the responsible team.,2026-04-08T11:30:00Z,C091,E018
+CC092,Additional information was requested from the requester.,2026-04-09T12:30:00Z,C092,E019
+CC093,The support team is investigating the reported behavior.,2026-04-10T13:30:00Z,C093,E020
+CC094,A temporary workaround has been shared with the employee.,2026-04-11T14:30:00Z,C094,E021
+CC095,The requester confirmed that the issue is resolved.,2026-04-12T15:30:00Z,C095,E022
+CC096,The issue has been assigned to the responsible team.,2026-04-13T16:30:00Z,C096,E023
+CC097,Additional information was requested from the requester.,2026-04-14T09:30:00Z,C097,E024
+CC098,The support team is investigating the reported behavior.,2026-04-15T10:30:00Z,C098,E025
+CC099,A temporary workaround has been shared with the employee.,2026-04-16T11:30:00Z,C099,E026
+CC100,The requester confirmed that the issue is resolved.,2026-04-17T12:30:00Z,C100,E027

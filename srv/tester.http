@@ -1,0 +1,39 @@
+###get the service document 
+GET http://localhost:4004/odata/v4/CatalogService/
+###get all complaints
+GET  http://localhost:4004/odata/v4/CatalogService/ComplaintsView 
+
+###get all employees
+GET  http://localhost:4004/odata/v4/CatalogService/EmployeeDetailsView
+
+###get all comments
+GET  http://localhost:4004/odata/v4/CatalogService/ComplaintCommentsDetails
+
+###count open complaints
+GET  http://localhost:4004/odata/v4/CatalogService/ComplaintDetails/$count?count
+
+###POST a complaint
+POST  http://localhost:4004/odata/v4/CatalogService/ComplaintsView
+Content-Type: application/json
+
+{
+    "Complaint_Title": "laptop not working",
+    "description": "laptop not working properly since last 2 days",
+    "Date_of_Complaint": "2024-06-01",
+    "status": "Open",
+    "raisedby_ID": "E001",
+    "assignedto_ID": "E002",
+    "priority": "High"
+}
+###update a complaint
+PATCH  http://localhost:4004/odata/v4/CatalogService/ComplaintsView('C001')
+Content-Type : application/json
+
+{
+    "status": "Resolved",
+    "resolved_at": "2024-06-05T10:30:00Z"
+  
+    
+}
+###Complaint status hsistory    
+GET  http://localhost:4004/odata/v4/CatalogService/Complaint_Status_History
